@@ -1,4 +1,4 @@
-# odin-recipes
-Basic Recipe Website - Odin Project
+# Chef PP's Recipes!
+Recipe Website - Odin Project
 
-This website will have a main index page, with links to a few of my favorite recipes (HTML and CSS only)
+This website has a home page, with links to a few of my favorite recipes (HTML and CSS only)
